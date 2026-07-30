@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 运行期/验证产物（非源码）
+outputs/
+
+# 本地记忆与工作区
+.workbuddy/
+.DS_Store
+Thumbs.db
