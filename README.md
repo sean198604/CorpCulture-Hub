@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/readme-cover.png" alt="CorpCulture Hub project cover" width="100%" /></p>
+
 # 企业文化日历 · CorpCulture-Hub
 
 > 📅 企业内部「企业文化日历」单页应用（SPA），容器化部署，配套轻量图片上传后端。
